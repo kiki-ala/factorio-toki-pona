@@ -1,0 +1,66 @@
+{
+  "language-name": "toki pona",
+  "font": {
+    "default": [
+      "tomotomoilo/fonts/nasin-nanpa-5.0.0-beta.2.otf",
+      "__core__/fonts/TitilliumWeb-Regular.ttf",
+      "__core__/fonts/Lilittium-Regular.ttf",
+      "__core__/fonts/NotoSans-Regular.ttf",
+      "__core__/fonts/NotoSansCJKtc-Regular.ttf",
+      "__core__/fonts/NotoSansThai-Regular.ttf",
+      "__core__/fonts/NotoSansArabic-Regular.ttf",
+      "__core__/fonts/NotoSansHebrew-Regular.ttf",
+      "__core__/fonts/DejaVuSans.ttf"
+    ],
+    "default-bold": [
+      "tomotomoilo/fonts/nasin-nanpa-5.0.0-beta.2.otf",
+      "__core__/fonts/TitilliumWeb-Bold.ttf",
+      "__core__/fonts/Lilittium-Bold.ttf",
+      "__core__/fonts/NotoSans-Bold.ttf",
+      "__core__/fonts/NotoSansCJKtc-Bold.ttf",
+      "__core__/fonts/NotoSansThai-Bold.ttf",
+      "__core__/fonts/NotoSansArabic-Bold.ttf",
+      "__core__/fonts/NotoSansHebrew-Bold.ttf",
+      "__core__/fonts/DejaVuSans-Bold.ttf"
+    ],
+    "default-mono": [
+      "tomotomoilo/fonts/nasin-nanpa-5.0.0-beta.2.otf",
+      "__core__/fonts/NotoMono-Regular.ttf",
+      "__core__/fonts/NotoSans-Regular.ttf",
+      "__core__/fonts/NotoSansCJKtc-Regular.ttf",
+      "__core__/fonts/NotoSansThai-Regular.ttf",
+      "__core__/fonts/NotoSansArabic-Regular.ttf",
+      "__core__/fonts/NotoSansHebrew-Regular.ttf",
+      "__core__/fonts/DejaVuSansMono.ttf"
+    ],
+    "default-semibold": [
+      "tomotomoilo/fonts/nasin-nanpa-5.0.0-beta.2.otf",
+      "__core__/fonts/TitilliumWeb-SemiBold.ttf",
+      "__core__/fonts/Lilittium-SemiBold.ttf",
+      "__core__/fonts/NotoSans-SemiBold.ttf",
+      "__core__/fonts/NotoSansCJKtc-Medium.ttf",
+      "__core__/fonts/NotoSansThai-SemiBold.ttf",
+      "__core__/fonts/NotoSansArabic-SemiBold.ttf",
+      "__core__/fonts/NotoSansHebrew-SemiBold.ttf",
+      "__core__/fonts/DejaVuSans-Bold.ttf"
+    ],
+    "locale-pick": [
+      "tomotomoilo/fonts/nasin-nanpa-5.0.0-beta.2.otf",
+      "__core__/fonts/NotoSans-Regular.ttf",
+      "__core__/fonts/NotoSansCJKtc-Regular.ttf",
+      "__core__/fonts/NotoSansThai-Regular.ttf",
+      "__core__/fonts/NotoSansArabic-Regular.ttf",
+      "__core__/fonts/NotoSansHebrew-Regular.ttf"
+    ],
+    "scenario-message-dialog": [
+      "tomotomoilo/fonts/nasin-nanpa-5.0.0-beta.2.otf",
+      "__core__/fonts/IBMPlexMono-Medium.ttf",
+      "__core__/fonts/NotoMono-Regular.ttf",
+      "__core__/fonts/NotoSans-Regular.ttf",
+      "__core__/fonts/NotoSansCJKtc-Regular.ttf",
+      "__core__/fonts/NotoSansThai-Regular.ttf",
+      "__core__/fonts/NotoSansArabic-Regular.ttf",
+      "__core__/fonts/NotoSansHebrew-Regular.ttf"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "toki-pona",
+  "version": "0.0.1",
+  "title": "toki pi toki pona",
+  "author": "ante kiki-ala",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "? core",
+    "? base",
+    "? elevated-rails",
+    "? quality",
+    "space-age"
+  ]
+}
