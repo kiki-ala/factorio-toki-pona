@@ -1,0 +1,26 @@
+{
+  "language-name": "toki pona",
+  "font": {
+    "fairfax-hd": [
+      "__factorio-toki-pona__/fonts/FairfaxHD.ttf"
+    ],
+    "default": [
+      "__factorio-toki-pona__/fonts/FairfaxHD.ttf"
+    ],
+    "default-bold": [
+      "__factorio-toki-pona__/fonts/FairfaxHD.ttf"
+    ],
+    "default-mono": [
+      "__factorio-toki-pona__/fonts/FairfaxHD.ttf"
+    ],
+    "default-semibold": [
+      "__factorio-toki-pona__/fonts/FairfaxHD.ttf"
+    ],
+    "locale-pick": [
+      "__factorio-toki-pona__/fonts/FairfaxHD.ttf"
+    ],
+    "scenario-message-dialog": [
+      "__factorio-toki-pona__/fonts/FairfaxHD.ttf"
+    ]
+  }
+}
