@@ -305,7 +305,7 @@ def lasina_localization_code_to_UCSUR(code_string):
     return words
 
 def produce_transliterations_from_file(file_to_parse, accumulated_transliterations):
-    config = configparser.ConfigParser(allow_unnamed_section=True)
+    config = configparser.ConfigParser(allow_unnamed_section=False)
     with open(file_to_parse, 'r', encoding="utf8") as f:
         file_string = f.read()
     file_string = file_string.replace('%', '󱥻')
@@ -346,4 +346,8 @@ if __name__ == "__main__":
     with open(OUT_FILE, 'r', encoding='utf8') as f:
         data = f.read().splitlines(True)
     with open(OUT_FILE, 'w', encoding='utf8') as f:
-        f.writelines(data[1:])
+        for i, line in enumerate(data):
+            if not line.strip() or line.startswith("[unnamed-section]"):
+                continue
+            f.writelines(data[i:])
+            break
