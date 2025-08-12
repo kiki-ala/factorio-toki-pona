@@ -16,22 +16,24 @@ la mi wile pali e musi tomo tomo ilo ni
 kepeken ala lukin e toki pi toki Inli.
 
 sina wile pali kin e nimi? o pana pona  
-la taso mi wile ala utala e jan anu.
+la taso mi wile ala utala e jan anu.  
 sina ken o pona e mi, la, mi wile ni.  
 
 ---
 
-it needs a lot of work.
-i can or can't, work or not.
-but it can be here... via w/e.
+it needs a lot of work.  
+i can or can't, work or not.  
+but it can be here... via w/e.  
 
-with my python and bash mod iteration script,
-all i am doing is poking at `./locale/cs/tok.cfg`,
-this is an "overwrite" of Czech just because:
-- the game can't see a `tok` localization folder.
-- the crowd-sourced locale site doesn't support Toki Pona.
-- WUBE is a Czech company, so that's my reasoning
-- didn't want to get shot down by jerks anyways
+with my python and bash mod iteration script,   
+all i am doing is poking at `./locale/cs/tok.cfg`,  
+this is an "overwrite" of Czech just because:  
+- the game can't see a `tok` localization folder.  
+- the crowd-sourced locale site doesn't support Toki Pona.  
+- WUBE is a Czech company, so that's my reasoning  
+- didn't want to get shot down by jerks anyways  
 
-so i am making my little sitelen pona mod.
-it makes me smile for this game to be so cute...
+so i am making my little sitelen pona mod.  
+it makes me smile for this game to be so cute...  
+
+<img width="709" height="844" alt="image" src="https://github.com/user-attachments/assets/06581f14-c2a3-4331-b3c0-4457b578796e" />
