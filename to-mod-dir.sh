@@ -1,4 +1,4 @@
-MODDIR=~/.factorio/mods/factorio-toki-pona
+MODDIR=$(python read-private-paths.py factp moddir)
 rm -dr $MODDIR
 mkdir -p $MODDIR/locale
 python ./convert-to-ucsur.py
