@@ -7,15 +7,15 @@ CFG_FILENAME = ".private.cfg"
 global PROJECTS
 PROJECTS = [
     {
-        "name": "factorio",
+        "name": "factp",
         "paths": [
             {
-                "name": "data",
+                "name": "datadir",
                 "desc": "factorio game data directory full path",
                 "example": "somewhere ... steamapps/common/Factorio/data"
             },
             {
-                "name": "mods",
+                "name": "moddir",
                 "desc": "factorio mods directory",
                 "example": "~/.factorio/mods"
             },

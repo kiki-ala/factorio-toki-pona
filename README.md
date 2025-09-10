@@ -1,38 +1,7 @@
-nanpa pini seme tan pali e toki ante e  
-[core, base, quality, elevated-rails, space-age]
+DISCONTINUED DUE TO DISINTEREST.
+The game is by and for fascists anyway.
 
-```mermaid
 ---
-config:
-  xyChart:
-    height: 96
-    showTitle: true
-    showAxisLine: false
-    chartOrientation: vertical
-    showDataLabel: false
-    showTick: false
-    tickLength: 0
-    xAxis:
-      showTick: false
-    yAxis:
-      showLabel: false
-      showTitle: false
-      showTick: false
-  themeVariables:
-    xyChart:
-      titleColor: '#00dddd'
-      backgroundColor: '#222222'
-      xAxisLineColor: '#222222'
----
-xychart-beta
-    title "pini seme (pakala)"
-    x-axis tawa pini
-    y-axis 0 --> 1
-    bar [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-```
-
-### `[wile pali mute]`
-### `[need more work]`
 
 musi ni li wile e pali mute.  
 mi ken ala ken la mi pali ala pali.  
